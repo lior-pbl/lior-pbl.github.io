@@ -7,11 +7,10 @@
 # Edit all lines marked [YOUR ...] to customize your site
 # ============================================================
 
-site_name: "[YOUR NAME] - Geospatial Portfolio"
-site_description: "Portfolio of [YOUR NAME] — GIS, Remote Sensing, and Spatial Data Science"
-site_author: "[YOUR NAME]"
-# After your site is live, uncomment and set this to your actual GitHub Pages URL:
-#site_url: "https://your-username.github.io/your-repo-name"
+site_name: "Rayhan Dwia Rukmana - Geospatial Portfolio"
+site_description: "Portfolio of Rayhan Dwia Rukmana — Geodesy & Geomatics student focusing on GIS, Remote Sensing, and 3D Mapping"
+site_author: "Rayhan Dwia Rukmana"
+site_url: "https://lior-pbl.github.io/"
 
 theme:
   name: material
@@ -59,16 +58,16 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-copyright: "Copyright &copy; [YOUR NAME]"
+copyright: "Copyright &copy; 2026 Rayhan Dwia Rukmana"
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/[YOUR-GITHUB-USERNAME]
+      link: https://github.com/lior-pbl
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]
+      link: https://linkedin.com/in/dwia-r-4272a6214
     - icon: material/email
-      link: mailto:[YOUR-EMAIL-ADDRESS]
+      link: mailto:2315071087@students.unila.ac.id
 
 
 plugins:
