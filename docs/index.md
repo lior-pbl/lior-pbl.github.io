@@ -53,6 +53,7 @@ I am a Geodetic and Geomatics Engineering student at Universitas Lampung with a 
     - QGIS, ArcGIS
     - AutoCAD: long section and cross section
     - Spatial data processing and map layout
+    - Global Mapper
 
 -   :material-ruler:{ .lg .middle } **Field Survey**
 
@@ -61,7 +62,7 @@ I am a Geodetic and Geomatics Engineering student at Universitas Lampung with a 
     - GNSS / GPS RTK
     - Total Station
     - Levelling (waterpass)
-    - Manual taping where signal is unavailable
+    - Maverick
 
 -   :material-map-marker-radius:{ .lg .middle } **Humanitarian Mapping**
 
@@ -76,15 +77,17 @@ I am a Geodetic and Geomatics Engineering student at Universitas Lampung with a 
     ---
 
     - Google Earth Engine and Google Colab
+    - Kaggle
     - Sentinel-2 image analysis
-    - Segment Anything Model (SAM) for plantation delineation (thesis)
+    - SAM-based delineation: oil palm plantations and Cirata floating solar PV (coursework)
 
 -   :material-palette:{ .lg .middle } **Documentation & Design**
 
     ---
 
-    - Google Workspace, MS Office
-    - CorelDRAW, Canva
+    - Google Workspace, Microsoft 365
+    - Canva
+    - NotebookLM
     - Technical drawings and field data reports
 
 </div>

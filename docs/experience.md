@@ -3,13 +3,6 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove job entries as needed (copy the format of an existing entry)
-- [ ] Add or remove education entries
-- [ ] Add or remove certifications
--->
 
 # Experience & Education
 
@@ -19,23 +12,23 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="timeline-entry" markdown>
 
-### [YOUR JOB TITLE] — [YOUR COMPANY / ORGANIZATION]
-*[Month Year] – [Month Year or Present] | [City, Country]*
+### Surveyor Intern — PT METTANA (PTSL Ciamis Project)
+*March 2020 – May 2020 | Ciamis, Indonesia*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Collected land parcel data with GPS RTK and helped the team reach a target of at least 70 parcels per day.
+- Set out reference lines with a measuring tape in areas without satellite signal, so measurements could still be completed.
+- Compiled nominal data in Excel with supporting field photos, and presented long sections and cross sections in AutoCAD.
 
 </div>
 
 <div class="timeline-entry" markdown>
 
-### [YOUR PREVIOUS JOB TITLE] — [YOUR PREVIOUS COMPANY]
-*[Month Year] – [Month Year] | [City, Country]*
+### OpenStreetMap Contributor (Volunteer) — HOT Tasking Manager & Humanitarian Projects
+*August 2026 – Present | Remote*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Made 6,948 map changes in 103 changesets over 46 mapping days across 13 countries, including Indonesia, Nepal, Myanmar and Mozambique.
+- Created about 4,000 nodes and 900 ways, mostly buildings, using JOSM and iD.
+- Kept a high accuracy rate: only 1 of 103 changesets (about 1%) was reverted.
 
 </div>
 
@@ -45,22 +38,25 @@ CHECKLIST FOR THIS PAGE:
 
 ## Education
 
-### [YOUR DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### B.Eng. in Geodetic and Geomatics Engineering
+**University of Lampung (Universitas Lampung)** | *2023 – Present*
 
-[Optional: one sentence about your thesis, specialization, or coursework if relevant]
-
----
-
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+Coursework in remote sensing, GIS, cadastral surveying, photogrammetry and regional planning.
 
 ---
 
-## Certifications
+### Geodetic Engineering (transferred)
+**Institut Teknologi Nasional (ITENAS), Bandung** | *2021 – 2022*
 
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
+---
 
-*Examples: QGIS Certification, PMP Certification, AWS Certified Cloud Practitioner*
+### Vocational High School in Geomatics Engineering
+**SMK PU Negeri Bandung** | *2018 – 2021*
+
+---
+
+## Volunteering & Activities
+
+- **Volunteer** — Buddha Tzu Chi Foundation
+- **Member, Health Outreach** — Syamsi Dhuha Foundation, 2022 – Present
+- **Delegate** — AIESEC Future Leader, April 2024 – June 2024
