@@ -80,8 +80,6 @@ nav:
   - Projects:
     - "All Projects": projects/index.md
     - "3D Model of Unila Bus Stop": projects/shuttle-bus-stop.md
-    - "Sample Project": projects/sample-project.md
-    - "Jupyter Notebook Project": projects/sample-notebook.ipynb
   - Experience: experience.md
   - Contact: contact.md
   
