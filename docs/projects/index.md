@@ -3,14 +3,6 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace the two placeholder cards (marked [YOUR PROJECT ...]) with your real projects
-- [ ] For each project: add a thumbnail image to docs/assets/images/ and update the path below
-- [ ] For each project: create a project page by copying sample-project.md
-- [ ] For each project: add a nav entry in mkdocs.yml (see the comments there)
-- [ ] Delete placeholder cards you don't need yet
--->
 
 # Projects
 
@@ -19,29 +11,15 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![](../assets/images/bus-stop-cover.png)
 
-**[Sample Project](sample-project.md)**
+**[3D Model of the Unila Shuttle Bus Stop](shuttle-bus-stop.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+A detailed 3D model of the Universitas Lampung shuttle bus stop, built from reference photos in SketchUp. A Ruby script automated the repetitive elements, while the Lampung-style ornaments were modelled by hand.
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`SketchUp` `Ruby` `3D Modelling`
 
-[View Project →](sample-project.md){ .md-button }
-</div>
-
-<div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
-
-**[Sample Notebook](sample-notebook.ipynb)**
-
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
-
-`Python` `pandas` `Folium`
-
-[View Project →](sample-notebook.ipynb){ .md-button }
+[View Project →](shuttle-bus-stop.md){ .md-button }
 </div>
 
 </div>
