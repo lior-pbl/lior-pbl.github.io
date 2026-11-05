@@ -1,6 +1,6 @@
 # 3D Model of the Unila Shuttle Bus Stop
 
-![3D model of the shuttle bus stop](../assets/images/bus-stop-cover.png)
+![3D model of the shuttle bus stop](../assets/images/shuttle-bus-stop.png)
 
 ## Overview
 

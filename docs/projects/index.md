@@ -11,7 +11,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/bus-stop-cover.png)
+![](../assets/images/shuttle-bus-stop.png)
 
 **[3D Model of the Unila Shuttle Bus Stop](shuttle-bus-stop.md)**
 
